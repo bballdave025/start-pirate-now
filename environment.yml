@@ -1,0 +1,11 @@
+name: my-r-env
+channels:
+  - r
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - pip=24.2
+  - python=3.12.4
+  - r-base=3.6.1
+  - r-essentials=3.6.0
+prefix: C:\Users\bballdave025\.conda\envs\my-r-env
